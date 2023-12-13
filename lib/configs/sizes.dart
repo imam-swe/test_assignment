@@ -1,11 +1,3 @@
-/*
-Company application details controller
-@Author Soton Ahmed <soton.m360ict@gmail.com>
-Start Date: 01-11-2023
-Last Update: 01-11-2023
-*/
-
-
 import 'package:flutter/material.dart';
 
 class AppSizes{

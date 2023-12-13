@@ -1,4 +1,5 @@
 import 'package:akij_assignment/configs/colors.dart';
+import 'package:akij_assignment/views/qr_code/qr_scan.dart';
 import 'package:akij_assignment/views/splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
